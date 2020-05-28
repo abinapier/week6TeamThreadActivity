@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Team Threads Activity</string>
+    <string name="count_even_label">Count by Evens</string>
+    <string name="count_odds_label">Count by Odds</string>
+</resources>
